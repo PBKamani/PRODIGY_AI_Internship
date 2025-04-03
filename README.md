@@ -39,9 +39,7 @@
 - 🎨 **AI Image Generator** – Powered by Stable Diffusion
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu_Kamani-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Priyanshu_Kamani-black?style=for-the-badge&logo=github)](https://github.com/your-github)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Priyanshu_Kamani-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/priyanshu-kamani-5aa70a306/overlay/create-post/))
 
 ---
 
-⭐ **Feel free to explore my repositories and contribute!** 🚀
