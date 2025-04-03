@@ -1,7 +1,5 @@
 ## Hi there! I'm Priyanshu Kamani 👋
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,ai)
-
 ### 🚀 About Me
 
 - 🎓 **B.Tech CSE Student** at Uka Tarsadia University
