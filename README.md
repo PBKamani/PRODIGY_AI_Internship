@@ -31,7 +31,6 @@
 
 ### 🔥 Projects
 - 🧠 **AI Chatbot** – Built with OpenAI API + MERN
-- 📊 **Data Analytics Dashboard** – Using React + MongoDB
 - 🎨 **AI Image Generator** – Powered by Stable Diffusion
 
 ### 📫 Connect With Me
